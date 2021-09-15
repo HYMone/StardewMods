@@ -10,6 +10,7 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 
 -->
 ## Upcoming release
+* Updated for Stardew Valley 1.5.5, including support for custom languages.
 * Fixed patches which use the `i18n` token not always updated on language change.
 
 ## 1.23.4
