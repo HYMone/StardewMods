@@ -9,7 +9,9 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 
 
 -->
-## Upcoming release
+## 1.23.5-beta.20210915
+Released 15 September 2021 for SMAPI 3.13.0-beta or later.
+
 * Updated for Stardew Valley 1.5.5, including support for custom languages and custom farm types.
 * Fixed patches which use the `i18n` token not always updated on language change.
 

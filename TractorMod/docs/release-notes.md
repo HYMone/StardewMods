@@ -1,6 +1,11 @@
 ﻿[← back to readme](README.md)
 
 # Release notes
+## 4.14.4-beta.20210915
+Released 15 September 2021 for SMAPI 3.13.0-beta or later.
+
+* Updated for Stardew Valley 1.5.5.
+
 ## 4.14.3
 Released 09 July 2021 for SMAPI 3.9.5 or later.
 
