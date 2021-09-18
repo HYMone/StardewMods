@@ -21,11 +21,11 @@
     "label.automate-options": "Automate",
     "label.automate-store": "이 상자에 물건을 넣으십시오",
     "label.automate-store-first": "이 상자에 먼저 물건을 넣으십시오",
-    "label.automate-store-disabled": "Never put items in this chest", // TODO
+    "label.automate-store-disabled": "이 상자에는 물건을 넣지 마십시오", // TODO
     "label.automate-take": "이 상자에서 물건을 가져 가십시오",
     "label.automate-take-first": "이 상자에서 먼저 물건을 가져 가십시오",
-    "label.automate-take-disabled": "Never take items from this chest", // TODO
-    "label.automate-prevent-remove-stacks": "Avoid removing the last item in a stack", // TODO
+    "label.automate-take-disabled": "이 상자에서 물건을 가져가지 마십시오", // TODO
+    "label.automate-prevent-remove-stacks": "스택의 마지막 항목 제거 방지", // TODO
 
     // button labels
     "button.edit-chest": "상자 편집",
